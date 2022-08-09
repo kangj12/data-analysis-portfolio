@@ -7,8 +7,9 @@ My name is Jun, and I am currently a third year student attending University of 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
--      [Prison Break Data Analysis](#Prison-Break-Data-Analysis)
--      [2021 Valorant Masters Tournament Analysis](#ValorantDataAnalysis)
+       + [Prison Break Data Analysis](#Prison-Break-Data-Analysis)
+       + [2021 Valorant Masters Tournament Analysis](#ValorantDataAnalysis)
+
 - [Contacts](#contacts)
        
 ## Portfolio Projects
@@ -20,3 +21,5 @@ In this section, I will list data analytics projects that I've worked on and wit
 **Skills:** data cleansing, data analysis, webscraping, data visualization.
 **Technology:** Python, Pandas, BeautifulSoup, Requests, Matplotlib
 **Results:** Review of different escape attempts and answered multiple questions pretaining to the data
+
+### 2021 Valorant Masters Analysis
