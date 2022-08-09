@@ -22,3 +22,8 @@ In this section, I will list data analytics projects that I've worked on and wit
 **Results:** Review of different escape attempts and answered multiple questions pretaining to the data
 
 ### 2021 Valorant Masters Analysis
+**Code:** ['ValorantDataAnalysis.ipynb'](https://github.com/kangj12/ValorantDataAnalysis/blob/main/ValorantDataAnalysis.ipynb)
+**Description:** For this project, there are four csv datasets: banned_map_stats, map_pick_stats, player_stats, and side_pick_stats. This project consists of analyzing the 2021 Valorant Masters Tournament using the dataset extracted from kaggle and answer a variety of questions listed in the notebook
+**Skills:** data cleansing, data analysis, data visualization
+**Technology:** Python, Pandas, Matplotlib
+**Results:** Conclusions on most/least picked maps, most/least banned maps, most/least picked agents, and most/least country of origin based on players
