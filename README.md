@@ -27,3 +27,7 @@ In this section, I will list data analytics projects that I've worked on and wit
 **Skills:** data cleansing, data analysis, data visualization
 **Technology:** Python, Pandas, Matplotlib
 **Results:** Conclusions on most/least picked maps, most/least banned maps, most/least picked agents, and most/least country of origin based on players
+
+### Contacts
+- LinkedIn: [@junwonkang](https://www.linkedin.com/in/junwonkang/)
+- E-mail: junwon.kang@mail.utoronto.ca
