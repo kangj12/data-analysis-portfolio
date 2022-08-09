@@ -7,10 +7,10 @@ My name is Jun, and I am currently a third year student attending University of 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
+	+ [Prison Break Data Analysis](#Prison-Break-Data-Analysis)
+	+ [2021 Valorant Masters Tournament Analysis](#ValorantDataAnalysis)
 - [Contacts](#contacts)
-       
+
 ## Portfolio Projects
 In this section, I will list data analytics projects that I've worked on and with its description as well as the technology used throughout the projects.
 
