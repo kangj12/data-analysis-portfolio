@@ -7,8 +7,8 @@ My name is Jun, and I am currently a third year student attending University of 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-       + [Prison Break Data Analysis](#Prison-Break-Data-Analysis)
-       + [2021 Valorant Masters Tournament Analysis](#ValorantDataAnalysis)
+       - [Prison Break Data Analysis](#Prison-Break-Data-Analysis)
+       - [2021 Valorant Masters Tournament Analysis](#ValorantDataAnalysis)
 - [Contacts](#contacts)
        
 ## Portfolio Projects
