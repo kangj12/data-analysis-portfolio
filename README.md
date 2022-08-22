@@ -40,9 +40,9 @@ In this section, I will list data analytics projects that I've worked on and wit
 ### Steam Games Data Analysis
 **Description:** The dataset used for this project contains 27033 records of Games listed on Steam in the year 2019. This project consists of cleaning up data, analyzing data by asking questions in the comments of the SQL file, and visualizing the data using Tableau.
 
-**Code:** ['MainSteamQuery.sql'](https://github.com/kangj12/SteamDataAnalysis/blob/main/MainSteamQuery.sql)
+**Code:** [`MainSteamQuery.sql`](https://github.com/kangj12/SteamDataAnalysis/blob/main/MainSteamQuery.sql)
 
-**TableauDashboard:** ['Tableau Dashboard'](https://public.tableau.com/app/profile/jun.kang/viz/SteamGameDashboard/Distributions?publish=yes)
+**TableauDashboard:** [`Tableau Dashboard`](https://public.tableau.com/app/profile/jun.kang/viz/SteamGameDashboard/Distributions?publish=yes)
 
 **Skills:** data cleansing, data analysis, data visualization
 
