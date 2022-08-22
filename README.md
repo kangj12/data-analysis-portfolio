@@ -9,6 +9,7 @@ My name is Jun, and I am currently a third year student attending University of 
 - [Portfolio Projects](#portfolio-projects)
 	+ [Prison Break Data Analysis](#Prison-Break-Data-Analysis)
 	+ [2021 Valorant Masters Tournament Analysis](#ValorantDataAnalysis)
+	+ [Steam Games Data Analysis](#SteamDataAnalysis)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
@@ -19,11 +20,11 @@ In this section, I will list data analytics projects that I've worked on and wit
 
 **Description:** The dataset contains 48 records of helicopter escape attempts as of 2022. The dataset contains information about the date of the escape attempt, the name of the prison, the country in which the attempt occurred, the name of the escapee(s), and a description of the event. This project includes the following steps: webscraping from wikipedia, data loading, data cleaning and preprocessing, data analysis, and data visualization.
 
-**Skills:** data cleansing, data analysis, webscraping, data visualization.
+**Skills:** data cleansing, data analysis, webscraping, data visualization
 
 **Technology:** Python, Pandas, BeautifulSoup, Requests, Matplotlib
 
-**Results:** Review of different escape attempts and answered multiple questions pretaining to the data
+**Results:** Review of different escape attempts and answered multiple questions pretaining to the data.
 
 ### 2021 Valorant Masters Tournament Analysis
 **Code:** [`ValorantDataAnalysis.ipynb`](https://github.com/kangj12/ValorantDataAnalysis/blob/main/ValorantDataAnalysis.ipynb)
@@ -34,7 +35,16 @@ In this section, I will list data analytics projects that I've worked on and wit
 
 **Technology:** Python, Pandas, Matplotlib
 
-**Results:** Conclusions on most/least picked maps, most/least banned maps, most/least picked agents, and most/least country of origin based on players
+**Results:** Conclusions on most/least picked maps, most/least banned maps, most/least picked agents, and most/least country of origin based on players.
+
+### Steam Games Data Analysis
+**Description:** The dataset used for this project contains 27033 records of Games listed on Steam in the year 2019. This project consists of cleaning up data, analyzing data by asking questions in the comments of the SQL file, and visualizing the data using Tableau.
+
+**Skills:** data cleansing, data analysis, data visualization
+
+**Technology:** Microsoft SQL Server, Tableau
+
+**Results:** Visualizations on most popular genres, distributions of age requirements, distribution of english/non-english games, top 30 most highly rated games, top 10 lowest rated games, distribution of paid vs free games, average gameplay hours per genre, total games on steam by genre, top 10 developers, and top 10 publishers.
 
 ### Contacts
 - LinkedIn: [@junwonkang](https://www.linkedin.com/in/junwonkang/)
