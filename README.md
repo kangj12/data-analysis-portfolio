@@ -10,6 +10,7 @@ My name is Jun, and I am currently a third year student attending University of 
 	+ [Prison Break Data Analysis](#Prison-Break-Data-Analysis)
 	+ [2021 Valorant Masters Tournament Analysis](#ValorantDataAnalysis)
 	+ [Steam Games Data Analysis](#SteamDataAnalysis)
+	+ [Top 50 Bestseller Books on Amazon from 2009-2019](#amazonbooks-EDA)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
@@ -49,6 +50,18 @@ In this section, I will list data analytics projects that I've worked on and wit
 **Technology:** Microsoft SQL Server, Tableau
 
 **Results:** Visualizations on most popular genres, distributions of age requirements, distribution of english/non-english games, top 30 most highly rated games, top 10 lowest rated games, distribution of paid vs free games, average gameplay hours per genre, total games on steam by genre, top 10 developers, and top 10 publishers.
+
+### Top 50 Bestseller Books on Amazon from 2009-2019
+**Code:** [`RMarkdown`](http://htmlpreview.github.io/?https://github.com/kangj12/amazonbooks-EDA/blob/main/AmazonBooksEDA.html)
+
+**Description:** The dataset contains 550 records of Amazon's bestselling books from 2009 to 2019. It contains the name of the book, author of the book, amazon user rating, number of written reviews on amazon, the price of the book as of 13/10/2020, the year(s) it ranked on the bestseller, and the genre of the book (fiction vs nonfiction). This project includes the following steps: data cleansing, exploratory data analysis, and data visualization.
+
+**Skills:** data cleansing, data analysis, data visualization
+
+**Technology:** R
+
+**Results:** Visualizations and Insights on information about Amazon Bestsellers.
+
 
 ### Contacts
 - LinkedIn: [@junwonkang](https://www.linkedin.com/in/junwonkang/)
